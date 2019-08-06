@@ -5,3 +5,6 @@
     - [基本类型](typescript/base/基本类型.md)
     - [枚举类型](typescript/base/枚举类型.md)
     - [对象类型接口](typescript/base/对象类型接口.md)
+    - [函数类型接口与重载](typescript/base/函数类型接口与重载.md)
+    - [继承和成员修饰符](typescript/base/继承和成员修饰符.md)
+    

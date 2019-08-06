@@ -1,5 +1,3 @@
-## 第一个Typescript程序
-
 1. `mkdir ts-demo`
 
 2. `npm i -g typescript`

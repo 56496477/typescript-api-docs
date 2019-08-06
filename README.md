@@ -1,3 +1,3 @@
 # 前言
 
-> 关于Typescript API的一些记录
+> 关于Typescript的一些记录
