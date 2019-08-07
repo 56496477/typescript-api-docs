@@ -7,4 +7,7 @@
     - [对象类型接口](typescript/base/对象类型接口.md)
     - [函数类型接口与重载](typescript/base/函数类型接口与重载.md)
     - [继承和成员修饰符](typescript/base/继承和成员修饰符.md)
+    - [抽象类与多态](typescript/base/抽象类与多态.md)
+    - [类与接口的关系](typescript/base/类与接口的关系.md)
+    
     
