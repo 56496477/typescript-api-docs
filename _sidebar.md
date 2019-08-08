@@ -9,5 +9,6 @@
     - [继承和成员修饰符](typescript/base/继承和成员修饰符.md)
     - [抽象类与多态](typescript/base/抽象类与多态.md)
     - [类与接口的关系](typescript/base/类与接口的关系.md)
+    - [泛型](typescript/base/泛型.md)
     
     
